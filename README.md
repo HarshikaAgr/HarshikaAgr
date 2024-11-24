@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Harshika A.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - linkedin 
+- 👋 Hi, I’m Harshika Agrawal.
+- 👀 I’m interested in building full-stack projects. 
+- 🌱 I’m currently learning front-end.
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me linkedin:  https://www.linkedin.com/in/agrawal-harshika/ 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love trying out new dishes from different cuisines.
 
 <!---
 HarshikaAgr/HarshikaAgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
