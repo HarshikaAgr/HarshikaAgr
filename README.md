@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m Harshika Agrawal.
-- 👀 I’m interested in building full-stack projects. 
+<!-- 👀 I’m interested in building full-stack projects. --->
 - 🌱 I’m currently learning front-end.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me linkedin:  https://www.linkedin.com/in/agrawal-harshika/ 
