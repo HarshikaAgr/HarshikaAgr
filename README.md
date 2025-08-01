@@ -11,10 +11,15 @@
 **💞️** I’m looking to collaborate on projects.
   
 **🛠 Tech Stack:**
+  
   **Languages:** Python, Java
+  
   **Data Science:** Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib
+  
   **Web Dev:** HTML, CSS, JavaScript (basic), Node.js
+  
   **Tools:** Jupyter Notebooks, Google Colab, Git, GitHub
+  
   **Databases:** SQL, MySQL
 <!---
 🎯 Featured Project: Sentiment Analysis for American Express (*link your project README)
