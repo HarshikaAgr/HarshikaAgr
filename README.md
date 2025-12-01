@@ -1,7 +1,7 @@
 
 
 **👋** Hi, I’m Harshika!
-<!---😄 Pronouns: she/her --->
+😄 Pronouns: she/her 
 **🎓** Undergraduate student at New Jersey Institute of Technology, studying Computer Science
 
 <!--- 🔭 Aspiring Data Scientist and Software Engineer
@@ -12,14 +12,10 @@
   
 **🛠 Tech Stack:**
   
-  **Languages:** Python, Java
-  
-  **Data Science:** Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib
-  
-  **Web Dev:** HTML, CSS, JavaScript (basic), Node.js
-  
-  **Tools:** Jupyter Notebooks, Google Colab, Git, GitHub
-  
+  **Languages:** Python, Java, C/C++, MATLAB, Minitab
+  **Web Dev:** HTML, CSS, JavaScript (Node.js, React.js, Three.js
+  **Data Science:** Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, Keras, Matplotlib, Seaborn, BERT, CNNs
+  **Tools:** Jupyter Notebook, Google Colab, Git, GitHub, VS Code, IntelliJ
   **Databases:** SQL, MySQL
 <!---
 🎯 Featured Project: Sentiment Analysis for American Express (*link your project README)
