@@ -25,7 +25,7 @@
   
 - **Databases:** SQL, MySQL
 
-## Certifications:** 
+## Certifications:
 - Machine Learning foundations - Cornell Tech’s Break Through Tech AI/ML Program
 - Bloomberg Market Concepts
 
@@ -53,16 +53,17 @@ LeetTracker - LeetCode Progress Tracker (*link your project README)
 
 ---
 
-## 💡 Interests & Leadership **
+## 💡 Leadership 
 
 I am the Technical Director for Salesforce Club at New Jersey Institute of Technology. 
+
 **⚡ Fun fact:** I love exploring places and trying new cuisines
 ---
 
-## 📫 How to reach me**
-  linkedin: [Harshika-Agrawal](https://www.linkedin.com/in/agrawal-harshika/)
+## 📫 How to reach me
+- linkedin: [Harshika-Agrawal](https://www.linkedin.com/in/agrawal-harshika)
   
-  github: [HarshikaAgr](https://github.com/HarshikaAgr/HarshikaAgr)
+- github: [HarshikaAgr](https://github.com/HarshikaAgr/HarshikaAgr)
 
 <!---
 HarshikaAgr/HarshikaAgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
