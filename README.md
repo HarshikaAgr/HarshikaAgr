@@ -9,9 +9,9 @@
 - 👀 I’m interested in building full-stack projects. --->
 **🌱** I love tackling real-world problems. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
 
----
-
 **💞️** I’m looking to collaborate on projects.
+
+---
   
 ## 🛠 Tech Stack:
   
@@ -28,6 +28,8 @@
 ## Certifications:
 - Machine Learning foundations - Cornell Tech’s Break Through Tech AI/ML Program
 - Bloomberg Market Concepts
+- Interview Prep - CodePath
+- Web Development - CodePath
 
 <!---
 ---
@@ -58,6 +60,7 @@ LeetTracker - LeetCode Progress Tracker (*link your project README)
 I am the Technical Director for Salesforce Club at New Jersey Institute of Technology. 
 
 **⚡ Fun fact:** I love exploring places and trying new cuisines
+
 ---
 
 ## 📫 How to reach me
