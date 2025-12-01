@@ -15,20 +15,22 @@
   
 ## 🛠 Tech Stack:
   
-  **Languages:** Python, Java, C/C++, MATLAB, Minitab
+- **Languages:** Python, Java, C/C++, MATLAB, Minitab
   
-  **Web Dev:** HTML, CSS, JavaScript (Node.js, React.js, Three.js
+- **Web Dev:** HTML, CSS, JavaScript (Node.js, React.js, Three.js
   
-  **Data Science:** Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, Keras, Matplotlib, Seaborn, BERT, CNNs
+- **Data Science:** Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, Keras, Matplotlib, Seaborn, BERT, CNNs
   
-  **Tools:** Jupyter Notebook, Google Colab, Git, GitHub, VS Code, IntelliJ
+- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub, VS Code, IntelliJ
   
-  **Databases:** SQL, MySQL
+- **Databases:** SQL, MySQL
 
-  **Certifications:** Machine Learning foundations - Cornell Tech’s Break Through Tech AI/ML Program,  Bloomberg Market Concepts
+## Certifications:** 
+- Machine Learning foundations - Cornell Tech’s Break Through Tech AI/ML Program
+- Bloomberg Market Concepts
 
-  ---
 <!---
+---
 🎯 Featured Project: Sentiment Analysis for American Express (*link your project README)
   What We Did: Preprocessed and vectorized text data using spaCy, then built an SVM classifier to predict sentiment (positive, negative, or neutral)
   Tools: Python, spaCy, scikit-learn
@@ -51,7 +53,7 @@ LeetTracker - LeetCode Progress Tracker (*link your project README)
 
 ---
 
-## 💡 Interests & Leadership
+## 💡 Interests & Leadership **
 
 I am the Technical Director for Salesforce Club at New Jersey Institute of Technology. 
 **⚡ Fun fact:** I love exploring places and trying new cuisines
@@ -59,6 +61,7 @@ I am the Technical Director for Salesforce Club at New Jersey Institute of Techn
 
 ## 📫 How to reach me**
   linkedin: [Harshika-Agrawal](https://www.linkedin.com/in/agrawal-harshika/)
+  
   github: [HarshikaAgr](https://github.com/HarshikaAgr/HarshikaAgr)
 
 <!---
