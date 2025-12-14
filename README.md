@@ -34,17 +34,17 @@
 ---
 
 ## 🎯 Featured Project: Fake News Detector and Classifier for Accenture ([🔗](https://github.com/HarshikaAgr/Fake-News-Classifer))
-- What We Did: Preprocessed and vectorized text data using spaCy, then built an SVM classifier to predict sentiment (positive, negative, or neutral)
-- Tools: Python, spaCy, scikit-learn
+- What We Did: Preprocessed and vectorized text data using machine learning tools, then built an SVM classifier to predict sentiment (positive, negative, or neutral)
+- Tools: Python, NumPy, Pandas, scikit-learn, Jupyter Notebook
 - Result: 85% accuracy, , outperforming the baseline by 20%, and provided insights that helped guide data-driven improvements in customer service.
-- Curious? See the full project here (*link your project README).
+- Curious? See the full project here [🔗](https://github.com/HarshikaAgr/Fake-News-Classifer).
 
 ---
 
 ## 🚀 Projects:
 A few other projects I’ve worked on:
 
-**MovieHub** - Personalized Movie Recommender (*link your project README)
+**MovieHub** - Personalized Movie Recommender ()
 - Developed a recommendation engine using collaborative filtering to suggest movies based on user preferences.
 - Tech Stack: Python, Flask, scikit-learn
 - Learnings: Building recommendation systems and deploying applications
