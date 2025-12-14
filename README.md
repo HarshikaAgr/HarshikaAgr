@@ -33,7 +33,7 @@
 
 ---
 
-## 🎯 Featured Project: Sentiment Analysis for American Express (*link your project README)
+## 🎯 Featured Project: Fake News Detector and Classifier for Accenture ([🔗](https://github.com/HarshikaAgr/Fake-News-Classifer))
 - What We Did: Preprocessed and vectorized text data using spaCy, then built an SVM classifier to predict sentiment (positive, negative, or neutral)
 - Tools: Python, spaCy, scikit-learn
 - Result: 85% accuracy, , outperforming the baseline by 20%, and provided insights that helped guide data-driven improvements in customer service.
