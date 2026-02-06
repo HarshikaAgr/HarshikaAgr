@@ -44,6 +44,12 @@
 ## 🚀 Projects:
 A few other projects I’ve worked on:
 
+**F1 2025 Predictions** - Race Outcome Prediction System
+- Developed a machine learning model to predict Formula 1 race outcomes using historical race data and qualifying session results.
+- Tech Stack: Python, FastF1 API, scikit-learn, Pandas, NumPy
+- Learnings: Feature engineering on real-world sports data, regression modeling, and evaluating predictions using Mean Absolute Error (MAE)
+
+<!--- 
 **MovieHub** - Personalized Movie Recommender ()
 - Developed a recommendation engine using collaborative filtering to suggest movies based on user preferences.
 - Tech Stack: Python, Flask, scikit-learn
@@ -53,6 +59,7 @@ A few other projects I’ve worked on:
 - A web app to track and visualize LeetCode problem-solving progress.
 - Tech Stack: React, Firebase, Chart.js
 - Learnings: Frontend development, data visualization, API integration
+--->
 
 ---
 
