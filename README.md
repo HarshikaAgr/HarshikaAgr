@@ -29,7 +29,8 @@
 - Machine Learning foundations - Cornell Tech’s Break Through Tech AI/ML Program
 - Bloomberg Market Concepts
 - Interview Prep - CodePath
-- Web Development - CodePath
+- Advanced Web Development - CodePath
+- Foundations of AI Engineering - Codepath
 
 ---
 
