@@ -17,11 +17,11 @@
   
 - **Languages:** Python, Java, C/C++, MATLAB, Minitab
   
-- **Web Dev:** HTML, CSS, JavaScript (Node.js, React.js, Three.js
+- **Web Dev:** HTML, CSS, JavaScript, Node.js, React, Three.js, TypeScript, Next.js, PostgreSQL
   
 - **Data Science:** Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, Keras, Matplotlib, Seaborn, BERT, CNNs
   
-- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub, VS Code, IntelliJ
+- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub, VS Code, IntelliJ, Vercel, Google Gemini API
   
 - **Databases:** SQL, MySQL
 
@@ -44,6 +44,12 @@
 
 ## 🚀 Projects:
 A few other projects I’ve worked on:
+
+**Meridian - A candidate-facing Applicant Tracking System (ATS)** ([🔗](https://meridian-1159.vercel.app/))
+- What We Did: Designed and built a full-stack, candidate-facing Applicant Tracking System (ATS) that enables users to manage job applications, generate tailored resumes, and track progress through each stage of the hiring pipeline. Implemented a scalable architecture with secure authentication, relational data modeling, and AI-powered features for resume generation and company research.
+- Tools: Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui, PostgreSQL (Supabase), Prisma ORM, Supabase Auth, Vercel AI SDK (Google Gemini), react-hook-form, zod, Jest, React Testing Library, Playwright, pnpm
+- Result: Delivered a production-ready web application with automated CI/CD, strong test coverage, and a seamless user experience for tracking applications, managing documents, and preparing for interviews.
+- Curious? See the full project here [🔗](https://github.com/HarshikaAgr/ats).
 
 **F1 2025 Predictions** - Race Outcome Prediction System
 - Developed a machine learning model to predict Formula 1 race outcomes using historical race data and qualifying session results.
